@@ -12,7 +12,7 @@ enfim , foi gerado o requerimentos para ser instalado para que o programa funcio
  **pip install -r requirements.txt **
  
 Para executar o mesmo , simplesmente "python nomeArquivo.py"
-Fiz da maneira mais rapida e pratica claro que no dia a dia por se tratar de capturas com mais informações o formato do codigo é diferente,
+Fiz da maneira mais rapida e pratica claro que no dia a dia por se tratar de capturas com mais informações o formato do codigo é diferente assim deixando mais funcional,
 porém tentei trazer agilidade e geralmente com um formato mais visivel
 
 Qualquer duvida a disposição
