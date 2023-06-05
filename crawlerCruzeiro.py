@@ -14,6 +14,7 @@ driver.maximize_window()
 
 driver.get('https://estrelabet.com/ptb/bet/search/Cruzeiro')
 
+## Coloquei esse tempo longo para dar tempo do site carregar
 time.sleep(15)
 
 ## Pegando as informações principais
